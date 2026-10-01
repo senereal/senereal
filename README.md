@@ -13,7 +13,7 @@
 </p>
 </pre>
 <br>
-<img src="https://github.com/senereal/senereal/blob/main/images/re1.gif" height="100" />
+<img src="https://github.com/senereal/senereal/blob/main/images/re1.gif" height="500" />
 <br><br>
 
 [![mail.ru](https://img.shields.io/badge/mail.ru-168de2?style=for-the-badge&logo=maildotru&logoColor=white)](https://chernovds2006@mail.ru)
