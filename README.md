@@ -12,7 +12,6 @@
   </a>
 </p>
 </pre>
-<br>
 <img src="https://github.com/senereal/senereal/blob/main/images/re1.gif" height="250" />
 <br><br>
 
